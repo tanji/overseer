@@ -1,0 +1,26 @@
+hash: ad92ea9d0c865f39e3d43fd576be8373e452c3cb59e7e6933aefb58a1ab69905
+updated: 2016-10-27T12:35:01.198272134+02:00
+imports:
+- name: github.com/BurntSushi/toml
+  version: bbd5bb678321a0d6e58f1099321dfa73391c1b6f
+- name: github.com/go-sql-driver/mysql
+  version: a732e14c62dde3285440047bba97581bc472ae18
+- name: github.com/jmoiron/sqlx
+  version: 05b81a7d5d38058e42148dc01f17daf4acba4640
+  subpackages:
+  - reflectx
+- name: github.com/mattn/go-colorable
+  version: 6c903ff4aa50920ca86087a280590b36b3152b9c
+- name: github.com/mattn/go-isatty
+  version: 66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8
+- name: github.com/mgutz/ansi
+  version: c286dcecd19ff979eeb73ea444e479b903f2cfcb
+- name: github.com/mgutz/logxi
+  version: 7d364cab682d1b7b9063a3293c9e8c3087194940
+  subpackages:
+  - v1
+- name: golang.org/x/sys
+  version: c200b10b5d5e122be351b67af224adc6128af5bf
+  subpackages:
+  - unix
+testImports: []
